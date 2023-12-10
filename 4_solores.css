@@ -1,0 +1,33 @@
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-darkMode {
+    margin-bottom: 40px;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.claseDom{
+    color: brown;
+}
